@@ -1,0 +1,2 @@
+This is File 6 from Branch 1
+Learning Git Stash
