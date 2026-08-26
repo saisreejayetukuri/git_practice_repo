@@ -2,3 +2,4 @@ this is new line in file4
 added a new line 3 in file3
 added  a line 4 in file4
 git diff commands
+testing the stash command 
