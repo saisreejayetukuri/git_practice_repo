@@ -4,3 +4,4 @@ added  a line 4 in file4
 git diff commands
 testing the stash command
 added a new line 6 
+added new line7
